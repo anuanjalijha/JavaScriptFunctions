@@ -1,4 +1,4 @@
-let n=5;
+let n=6;
 let first_term = 0;
 let second_term = 1;
 let next_term;
